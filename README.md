@@ -4,8 +4,6 @@ Hi 👋 My name is Pavel Lunev
 IOS Developer
 -------------
 
-Developer with glowing eyes
-
 *   🌍  I'm based in Tyumen
 *   🖥️  See my portfolio at [Projects](http://todo.com)
 *   ✉️  You can contact me at [pavellunev99@gmail.com](mailto:pavellunev99@gmail.com)
