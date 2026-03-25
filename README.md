@@ -4,11 +4,6 @@ Hi 👋 My name is Pavel Lunev
 IOS Developer
 -------------
 
-*   🌍  I'm based in Tyumen
-*   🖥️  See my portfolio at [Projects](http://todo.com)
-*   ✉️  You can contact me at [pavellunev99@gmail.com](mailto:pavellunev99@gmail.com)
-*   🚀  I'm currently working on [Incrdbl Mobile Entertainment](http://incrdbl.me)
-*   🧠  I'm learning combine
 ### Skills
 <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
